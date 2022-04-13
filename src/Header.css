@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  margin-top: 5px;
+  color: whitesmoke;
+}
+h1{
+  font-size: 4em;
+}
+h2{
+  font-size: 2em;
+  padding-bottom: 15px;
+}
+hr {
+  width: 85vw;
+}

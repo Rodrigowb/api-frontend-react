@@ -1,0 +1,14 @@
+.music-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  border: 3px solid whitesmoke;
+  background-color: black;
+  box-shadow: 1px 1px 1px white;
+  border-radius: 15px;
+}
+.music{
+  width: 97%;
+  background-color: black;
+}
+

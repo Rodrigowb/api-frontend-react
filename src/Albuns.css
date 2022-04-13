@@ -1,0 +1,37 @@
+.container {
+  /* Display */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 30px;
+}
+.album{
+  display: flex;
+  flex-direction: column;
+  /* Size */
+  height: 20vh;
+  width: 20vw;
+  margin: 20px;
+   /* Style */
+   border: 3px solid whitesmoke;
+   background-color: black;
+   box-shadow: 1px 1px 1px white;
+   border-radius: 15px;
+}
+p {
+  font-size: 1.5em;
+  background-color: black;
+  color: whitesmoke;
+}
+span {
+  background-color: black;
+  color: blue;
+}
+.title{
+  font-weight: bold;
+}
+button{
+  color: whitesmoke;
+  font-weight: bold;
+}
+
