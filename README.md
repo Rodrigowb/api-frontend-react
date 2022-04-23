@@ -1,6 +1,6 @@
 # Project informations
 
-Name: Tyler The Creator- Dyscograpy Frontend <br />
+Name: Tyler The Creator- Discograpy Frontend <br />
 Start date: 04/12/2022 <br />
 Version: 001 <br />
 Author's name: Rodrigo Wanderley <br />
